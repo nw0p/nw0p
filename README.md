@@ -11,7 +11,7 @@
 </br>
                                       
 
-[![Badge](https://dqfjq7n40v9s.runkit.sh)](https://git.io/gradientbadge)
+
 
 			
 
