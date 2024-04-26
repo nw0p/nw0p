@@ -24,7 +24,6 @@
 
 <img src="https://github.com/nw0p/nw0p/assets/38057139/926f9da2-b523-4546-98f8-2a1d38628db2" width="210" height="160">
 
-<img src="https://github.com/nw0p/nw0p/assets/38057139/12addbb2-f23f-4d98-a854-31c4639aebed" width="275" height="180">
 
 <img src="https://github.com/nw0p/nw0p/assets/38057139/5b8e95f5-103c-4f32-b1e2-75205a21beb8" height="145">
 
