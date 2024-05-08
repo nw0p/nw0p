@@ -1,15 +1,4 @@
-### :wave: Hi there, my name is April and I am very swag. 😎
-=========================================================
-
-* 🌍  I'm from Fiji 🇫🇯
-* 🧠  I'm interested in: Java, Kotlin, C++, Linux, cybersecurity, reverse engineering, cryptocurrency, and pallas cats 🐱  
-* 📧  You can contact me on discord @nwop 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nw0p&theme=github_dark)
-                                      
-</br>
-</br>
-                                      
+                            
 
 
 
